@@ -1,6 +1,6 @@
 name: Wounds in the Sky
 favicon: null
-layout_spectrum: 0.45132
+layout_spectrum: 0.92567
 typography_spectrum: 1
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#446694'
     - '#fe5941'
     - '#fead53'
-  brandStrength: 0.75
-  lightness: 0.16663856571540236
-  saturation: 0.75
-  rhythmicContrast: 0
+  brandStrength: 0.1875
+  lightness: 0.375
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
