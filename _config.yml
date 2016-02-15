@@ -1,0 +1,28 @@
+name: Wounds in the Sky
+favicon: null
+layout_spectrum: 0.4307974297553301
+typography_spectrum: 0.9928504701238126
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.35172558878548443
+  lightness: 0.16663856571540236
+  saturation: 0.8545439557638019
+  rhythmicContrast: 0.018671185709536076
+purpose: []
